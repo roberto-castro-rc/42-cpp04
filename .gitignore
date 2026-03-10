@@ -1,0 +1,14 @@
+# Binários e objetos
+*.o
+*.out
+ex00/ex00
+ex01/ex01
+ex02/ex02
+ex03/ex03
+ex04/ex04
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
