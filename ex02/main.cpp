@@ -11,8 +11,8 @@
 int main(void)
 {
 	// A linha abaixo NAO compila (Animal e abstrato):
-	// Animal a;      // ERRO: cannot declare variable 'a' of abstract type
-	// Animal *a = new Animal();  // ERRO: idem
+	//Animal a;      // ERRO: cannot declare variable 'a' of abstract type
+	//Animal *a = new Animal();  // ERRO: idem
 
 	std::cout << "=== Animal e abstrato — so Dog e Cat podem ser criados ===" << std::endl;
 
