@@ -1,11 +1,10 @@
-# Binários e objetos
+# Binários
 *.o
 *.out
-ex00/ex00
-ex01/ex01
-ex02/ex02
-ex03/ex03
-ex04/ex04
+ex00/animal
+ex01/animal_brain
+ex02/abstract
+ex03/materia
 
 # Editores
 .vscode/
